@@ -148,7 +148,7 @@ input[type=submit]:hover {
 
       <div class="col">
         <a href="#" class="fb btn">
-          <i class="fa fa-facebook fa-fw"></i> Login with Facebook
+          <i class="fa fa-facebook fa-fw"></i> jagunu
          </a>
         <a href="#" class="twitter btn">
           <i class="fa fa-twitter fa-fw"></i> Login with Twitter
