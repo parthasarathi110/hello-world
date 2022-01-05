@@ -160,7 +160,7 @@ input[type=submit]:hover {
 
       <div class="col">
         <div class="hide-md-lg">
-          <p>Or sign in manually:</p>
+          <p>I will sign mannually:</p>
         </div>
 
         <input type="text" name="username" placeholder="Username" required>
